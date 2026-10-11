@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ai212.missionplotter.com/sitemap.xml
