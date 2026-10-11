@@ -20,7 +20,7 @@ Do not change any root/apex, `www`, email, or existing Mission Plotter deploymen
 ## Google OAuth branding
 Once all three pages are publicly accessible via HTTPS, set Google Auth Platform Branding:
 - App: `AI Trading 212`
-- Support and developer email: `edturner2@gmail.com`
+- Support and developer email: configured privately within Google Cloud, not displayed on these pages.
 - Homepage: `https://ai212.missionplotter.com/`
 - Privacy: `https://ai212.missionplotter.com/privacy/`
 - Terms: `https://ai212.missionplotter.com/terms/`
@@ -31,4 +31,4 @@ Verify domain ownership in Google Search Console if required. Change **Audience*
 ## Separation and security
 This repository must contain **only public HTML/CSS and disclosure text**. Private database code, data, OAuth credentials and GitHub secrets stay in the existing private `AI-Trading-212` repository. This website is not an OAuth redirect handler, brokerage or execution endpoint.
 
-Operator contact: edturner2@gmail.com
+
